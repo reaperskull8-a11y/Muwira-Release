@@ -1,0 +1,31 @@
+# Changelog
+
+## 1.1.7 - 2026-05-28
+
+### Changed
+- Pembaruan build Electron, icon aplikasi, atau paket desktop.
+
+Semua perubahan penting POS Pro dicatat di file ini. File ini otomatis ikut disalin ke paket produksi saat build Electron.
+
+## 1.0.0 - 2026-05-25
+
+### Added
+- Menu Bantuan berisi Tentang POS Pro, identitas pembuat, kontak support, mode aplikasi, dan lisensi.
+- Fitur Lapor Bug offline dengan download laporan `.txt` dan salin laporan ke clipboard.
+- Simulasi transaksi besar otomatis untuk menguji 100 produk, 1.000 transaksi, stok, pajak, laporan, dan snapshot item.
+- Satuan barang custom pada form produk.
+- Input qty manual di keranjang.
+- Pengaturan pajak toko.
+- Pengaturan identitas toko dan logo toko.
+- Warning stok menipis dengan threshold dari pengaturan.
+- Icon aplikasi POS Pro baru untuk favicon dan build Electron.
+- QA otomatis untuk tambah barang, transaksi normal, transaksi melebihi stok, laporan, dan setting struk.
+
+### Fixed
+- Laporan penjualan tidak lagi menampilkan item sebagai unidentified karena transaksi sekarang menyimpan snapshot nama, harga, satuan, kategori, dan modal item.
+- Validasi stok diperkuat di keranjang dan server.
+- Struk memakai identitas toko, footer, pajak, dan logo toko.
+
+### Build
+- Build Electron memakai icon baru.
+- Paket produksi menyertakan changelog dan version info.

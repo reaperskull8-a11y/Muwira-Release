@@ -1,0 +1,7 @@
+POS Pro Version Info
+
+Version     : 1.1.7
+Build date  : 2026-05-28T03:04:38.099Z
+Git branch  : main
+Git commit  : 46278c8
+Dirty build : yes
