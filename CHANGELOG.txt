@@ -1,5 +1,26 @@
 # Changelog
 
+## 1.1.12 - 2026-06-03
+
+### Changed
+- Pembaruan build Electron, icon aplikasi, atau paket desktop.
+
+## 1.1.11 - 2026-06-02
+
+### Changed
+- Pembaruan build Electron, icon aplikasi, atau paket desktop.
+- Pembaruan otomasi versi, changelog, dan catatan rilis.
+
+## 1.1.10 - 2026-06-02
+
+### Changed
+- Pembaruan build Electron, icon aplikasi, atau paket desktop.
+
+## 1.1.9 - 2026-06-01
+
+### Changed
+- Pembaruan build Electron, icon aplikasi, atau paket desktop.
+
 ## 1.1.7 - 2026-05-28
 
 ### Changed
