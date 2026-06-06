@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.1.12 - 2026-06-03
+## 1.1.13 - 2026-06-06
 
 ### Changed
 - Pembaruan build Electron, icon aplikasi, atau paket desktop.
