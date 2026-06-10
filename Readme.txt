@@ -1,4 +1,4 @@
-POS Pro v1.1.13
+POS Pro v1.1.15
 
 Terima kasih telah menggunakan POS Pro.
 
