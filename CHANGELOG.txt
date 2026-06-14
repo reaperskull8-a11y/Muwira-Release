@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.10 - 2026-06-11
+
+### Changed
+- Pembaruan UX kasir, keranjang, stok, struk, profil toko, atau laporan.
+- Pembaruan API, validasi data, transaksi, laporan, database, atau seeder.
+- Pembaruan build Electron, icon aplikasi, atau paket desktop.
+- Pembaruan test otomatis untuk menjaga transaksi, laporan, dan build tetap aman.
+- Pembaruan otomasi versi, changelog, dan catatan rilis.
+
 ## 1.1.15 - 2026-06-09
 
 ### Changed

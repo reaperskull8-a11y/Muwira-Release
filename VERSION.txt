@@ -1,7 +1,7 @@
 POS Pro Version Info
 
-Version     : 1.1.15
-Build date  : 2026-06-09T06:07:51.208Z
+Version     : 0.1.10
+Build date  : 2026-06-11T10:12:57.584Z
 Git branch  : main
 Git commit  : ba1efb7
 Dirty build : yes
